@@ -1,0 +1,12 @@
+database:
+  host: localhost
+  port: 5432
+  user: maruthi
+  password: 12345678
+  dbname: product_management
+redis:
+  host: localhost
+  port: 6379
+queue:
+  host: localhost
+  port: 5672
